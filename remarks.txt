@@ -1,0 +1,57 @@
+
+
+Every failure of quality control is a failure of version control. Every weakness in your report is a manifestation of weakness in your version control system.
+
+Every typo in your report; every chart mislabeled; every cross-reference misattributed; every lit review misrepresented; every error in your quant analysis is a failure or a weakness in your version control system.
+
+This is not something you need to be persuaded on: it is definitionally true. It follows immediately from the definition of a version control system.
+
+What is a version control system?
+
+To describe a version control system, I want to tell a story. 
+
+John the lumberjack is an excellent logger. He is both strong, able to fell mighty trees, and knowledgable -- able to tell whether the wood will make good quality timber.
+He works in remote areas, far from roads, and far from the lumber mill he is contracted by. 
+No matter. 
+The places he works has many fast-flowing rivers, sufficiently deep that he can just float the logs down.
+The lumber mill is located on a major river in the valley.
+\	\ J
+/	/
+\	\
+		LM
+============
+
+
+After a month's hard work felling a mountain forest, he hikes down to the lumber mill to collect his cheque.
+"But we never got any logs from you," says Jill, head of logging logs. 
+
+John is the victim of a poor version control system. 
+In fact the valley looks like
+
+
+\	\ J
+/	/
+\	\................... 
+
+^^^^^^^^^
+
+		LM
+===============
+
+John's logs went out to sea. 
+He did not have high assurance from the cartography that the he was felling abeam a tributary of the main river.  
+
+
+
+
+
+
+I want to break up a version control system (or VCS) into three parts, which I will call -- rather idiosyncratically -- source control, version control, and revision control.
+
+Source control is the enforcement of rules governing what is allowed in the final report. In practice, this means enforcing that:
+* everything placed in a report was intended to be placed in the report; no-one accidentally puts something in a report they shouldn't have.
+* everything put in a report is reviewed
+* everything in a report is attributable to someone, some time, and some motivation
+
+Version control is the assurance to an author that their work is  that any work intended for the report will either be admitted to the report, or rejected after a fair review.
+
