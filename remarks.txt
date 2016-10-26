@@ -53,5 +53,7 @@ Source control is the enforcement of rules governing what is allowed in the fina
 * everything put in a report is reviewed
 * everything in a report is attributable to someone, some time, and some motivation
 
-Version control is the assurance to an author that their work is  that any work intended for the report will either be admitted to the report, or rejected after a fair review.
+Version control is the assurance to an author that any work intended for the report will either be admitted to the report, or rejected after a fair review.
+
+Revision control is a service to authors whereby they are alerted to modifications downstream of their changes.  
 
